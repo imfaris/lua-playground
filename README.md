@@ -1,5 +1,5 @@
 # ImFaris-lua
-Small lua scripts for assetto corsa servers
+Small lua scripts for Assetto Corsa servers
 
 
 
