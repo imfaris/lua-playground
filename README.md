@@ -1,3 +1,3 @@
 # ImFaris-lua
 
-Small lua scripts for Assetto Corsa servers
+My small lua scripts made for Assetto Corsa servers
